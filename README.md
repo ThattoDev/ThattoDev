@@ -1,8 +1,5 @@
-# Hi there, me chamo Thácito Filgueiras, mais conhecido como Thatto. 👋</br><h3>Sou amante de tecnologias, atualmente fazendo transição de carreira para área de TI e me formando Full-Stack!<h3>
-
-##
-
-<div align="center">
+# Hi there, me chamo Thácito Filgueiras, mais conhecido como Thatto. 👋
+<div>
   <a href="https://github.com/ThattoDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThattoDev&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThattoDev&layout=compact&langs_count=7&theme=aura"/>
